@@ -6,7 +6,7 @@ I lead analytics programs that turn demand signals, operational KPIs, and GenAI-
 
 ---
 
-### Featured work (portfolio samples)
+### Featured work
 
 | Repository | What it demonstrates |
 |---|---|
